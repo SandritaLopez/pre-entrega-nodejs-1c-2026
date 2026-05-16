@@ -1,4 +1,5 @@
-Pre-Entrega Node.js — FakeStore CLI
+Pre-Entrega Node.js    
+FakeStore CLI
 
 Herramienta de terminal construida con Node.js que interactúa con la API de FakeStore. 
 Permite listar, crear y eliminar productos mediante comandos desde la consola.
