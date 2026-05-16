@@ -1,5 +1,5 @@
 // Alumna: Sandra Lopez 
-// pre-entrega-nodejs.js
+// index.js
 
 
 const [, , metodo, recurso, title, price, category] = process.argv;
